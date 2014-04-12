@@ -1,0 +1,1 @@
+Hi this is an edited version of 2048 game this game is not created by me.
